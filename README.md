@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **big data of IoT devices and connect them with smart homes.**
 
+- 🧑‍🏫 I'm a **DevOps Coach and Code Mentor** 
+
 - 👯 I’m looking to collaborate on [strapi](https://github.com/strapi/strapi)
 
 - 💬 Ask me about **DevOps, Cloud, Ruby, Ruby on Rails, Nuxt, Strapi.**
@@ -28,4 +30,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianheimke&show_icons=true&locale=en" alt="christianheimke" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianheimke&show_icons=true&locale=en&count_private=true" alt="christianheimke" /></p>
